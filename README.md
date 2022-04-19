@@ -21,3 +21,11 @@ Sai Preetham Kamishetty (st122038) \
 ## Contributions
 
 ![Contributions](https://user-images.githubusercontent.com/97950172/163948774-4c3ac69d-1fc1-4bc1-add9-a69c5366c306.png)
+
+
+## Containerization
+
+The current repo contains a monolithic version of the application that can be installed and run locally. For our attempts to dockerize and deploy it with two separated services for the authentication and the reminders, check out the following repos:
+1. https://github.com/panuvitchantara/reminder.git
+2. https://github.com/panuvitchantara/reminder_microservice
+
