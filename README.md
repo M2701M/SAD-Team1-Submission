@@ -20,3 +20,4 @@ Sai Preetham Kamishetty (st122038) \
 
 ## Contributions
 
+![Contributions](https://user-images.githubusercontent.com/97950172/163948774-4c3ac69d-1fc1-4bc1-add9-a69c5366c306.png)
